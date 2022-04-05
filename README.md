@@ -1,2 +1,4 @@
 # javascript_pong
-projetos jogo do pong
+Projetos Jogo do Pong
+
+*Estudantes de Pensamento Computacional*
